@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "billing_not_active",
+    "message": "Your account is not active, please check your billing details on our website.",
+    "param": null,
+    "type": "invalid_request_error"
+  }
+}

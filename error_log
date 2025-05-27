@@ -1,0 +1,5 @@
+[25-Dec-2023 14:12:37 UTC] PHP Fatal error:  Cannot use [] for reading in /home/appz/public_html/appbk.myaiappz.com/app/Http/Controllers/AppController.php on line 26
+[25-Dec-2023 14:13:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/appz/public_html/appbk.myaiappz.com/app/Http/Controllers/AppController.php on line 26
+[04-Jan-2024 09:35:27 UTC] PHP Fatal error:  Cannot use Kreait\Firebase\Messaging\Notification as Notification because the name is already in use in /home/appz/public_html/appbk.myaiappz.com/app/Notifications/PushNotification.php on line 9
+[04-Jan-2024 15:44:10 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/appz/public_html/appbk.myaiappz.com/app/Http/Controllers/DashboardController.php on line 9
+[04-Jan-2024 15:45:33 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/appz/public_html/appbk.myaiappz.com/app/Http/Controllers/DashboardController.php on line 9

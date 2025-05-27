@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": null,
+    "message": "Prompt must be length 1000 or less. Your prompt length is 1992. Please reduce your prompt length.",
+    "param": null,
+    "type": "invalid_request_error"
+  }
+}
